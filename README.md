@@ -3,12 +3,13 @@
 
 - Computer Science @ Temple University 🍒🦉
 - Part-time classroom assistant and lab consultant @ Temple
+- Seeking opportunities for Summer 2022
 - I like learning about different areas of technology 🖥️
 
 | External Links | 
 | -------------- |
-| ![https://linkedin.com/in/shullender][LinkedIn] |
-| ![mailto:shullender0907@gmail.com][Email] |
+| ![LinkedIn](https://linkedin.com/in/shullender) |
+| ![Email](mailto:shullender0907@gmail.com) |
 
 <!--
 Here are some ideas to get you started:
