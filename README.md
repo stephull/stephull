@@ -2,13 +2,13 @@
 ##### Welcome to my GitHub 😸
 
 - Computer Science @ Temple University 🍒🦉
+- Part-time classroom assistant and lab consultant @ Temple
 - I like learning about different areas of technology 🖥️
 
 | External Links | 
 | -------------- |
-| [https://google.com][Personal Website (TEST)] |
-| [https://linkedin.com/in/shullender][LinkedIn] |
-| [mailto:shullender0907@gmail.com][Email] |
+| ![https://linkedin.com/in/shullender][LinkedIn] |
+| ![mailto:shullender0907@gmail.com][Email] |
 
 <!--
 Here are some ideas to get you started:
