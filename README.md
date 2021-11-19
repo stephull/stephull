@@ -8,8 +8,8 @@
 
 | External Links | 
 | -------------- |
-| ![LinkedIn](https://linkedin.com/in/shullender) |
-| ![Email](mailto:shullender0907@gmail.com) |
+| [![LinkedIn](https://cdn3.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_black-512.png)](https://linkedin.com/in/shullender) |
+| [![Email](https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-email-512.png)](mailto:shullender0907@gmail.com) |
 
 <!--
 Here are some ideas to get you started:
