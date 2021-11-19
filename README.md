@@ -8,8 +8,8 @@
 
 | External Links | 
 | -------------- |
-| [![LinkedIn](https://cdn3.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_black-512.png)](https://linkedin.com/in/shullender) |
-| [![Email](https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-email-512.png)](mailto:shullender0907@gmail.com) |
+| [![LinkedIn](<img src="https://cdn3.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_black-512.png" width="100" height="100"/>)](https://linkedin.com/in/shullender) |
+| [![Email](<img src="https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-email-512.png" width="100" height="100"/>)](mailto:shullender0907@gmail.com) |
 
 <!--
 Here are some ideas to get you started:
