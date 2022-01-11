@@ -1,15 +1,18 @@
 ### Stephen Hullender
-##### Welcome to my GitHub 😸
+#### Welcome to my GitHub 😸
 
 - Computer Science @ Temple University 🍒🦉
-- Part-time classroom assistant and lab consultant @ Temple
-- Seeking opportunities for Summer 2022
+- Part-time teaching assistant and technical lab consultant 📚🖨️
+- Seeking opportunities for Summer 2022 and beyond 🚀
 - I like learning about different areas of technology 🖥️
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 | External Links | 
 | -------------- |
-| [![LinkedIn](<img src="https://cdn3.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_black-512.png" width="100" height="100"/>)](https://linkedin.com/in/shullender) |
-| [![Email](<img src="https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-email-512.png" width="100" height="100"/>)](mailto:shullender0907@gmail.com) |
+| [LinkedIn](https://linkedin.com/in/shullender) |
+| [Temple email](mailto:stephull@temple.edu) |
 
 <!--
 Here are some ideas to get you started:
