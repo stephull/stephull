@@ -5,6 +5,7 @@
 - Part-time teaching assistant and technical lab consultant 📚🖨️
 - Seeking opportunities for Summer 2022 and beyond 🚀
 - I like learning about different areas of technology 🖥️
+- Currently working on projects... 👀
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
