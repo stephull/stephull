@@ -8,6 +8,9 @@
 - Currently working on projects... 👀
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 | External Links | 
