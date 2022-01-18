@@ -1,12 +1,12 @@
-### Stephen Hullender
+## Stephen Hullender
+
 #### Welcome to my GitHub 😸
+  * Computer Science @ Temple University 🍒🦉
+  * Part-time teaching assistant and technical lab consultant 📚🖨️
+  * Seeking opportunities for Summer 2022 and beyond 🚀
+  * I like learning about different areas of technology 🖥️
 
-- Computer Science @ Temple University 🍒🦉
-- Part-time teaching assistant and technical lab consultant 📚🖨️
-- Seeking opportunities for Summer 2022 and beyond 🚀
-- I like learning about different areas of technology 🖥️
-- Currently working on projects... 👀
-
+#### What I've been working on...
 <!--START_SECTION:waka-->
 ```text
 HTML         3 hrs 1 min     ███████████░░░░░░░░░░░░░░   43.89 % 
