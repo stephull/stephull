@@ -9,11 +9,11 @@
 #### What I've been working on...
 <!--START_SECTION:waka-->
 ```text
-JavaScript   7 hrs 58 mins   ████████▒░░░░░░░░░░░░░░░░   33.97 % 
-HTML         6 hrs 5 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.93 % 
-Python       2 hrs 55 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
-Java         2 hrs 46 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
-CSS          2 hrs 36 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
+JavaScript   10 hrs 8 mins   ██████████▒░░░░░░░░░░░░░░   41.93 % 
+HTML         5 hrs 56 mins   ██████░░░░░░░░░░░░░░░░░░░   24.57 % 
+Python       2 hrs 51 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
+Java         2 hrs 48 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
+CSS          1 hr 56 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
 ```
 <!--END_SECTION:waka-->
 
