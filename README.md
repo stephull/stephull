@@ -6,11 +6,11 @@
 #### What I've been working on this past week...
 <!--START_SECTION:waka-->
 ```text
-Java         5 hrs 32 mins   ██████████████░░░░░░░░░░░   56.64 % 
-HTML         1 hr 28 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.04 % 
-JavaScript   56 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
-CSS          42 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
-Markdown     37 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
+Java         5 hrs 32 mins   ██████████████░░░░░░░░░░░   56.10 % 
+HTML         1 hr 28 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.89 % 
+JavaScript   56 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
+Markdown     43 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
+CSS          42 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
 ```
 <!--END_SECTION:waka-->
 
