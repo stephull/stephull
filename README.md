@@ -7,10 +7,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python       41 mins         ███████████████████████▒░   93.46 %
-HTML         2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.51 %
-Git Config   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+JavaScript   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
