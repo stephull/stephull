@@ -7,9 +7,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Markdown   1 min           ████████████▒░░░░░░░░░░░░   49.03 %
-Java       1 min           ████████▓░░░░░░░░░░░░░░░░   34.51 %
-XML        0 secs          ████░░░░░░░░░░░░░░░░░░░░░   16.46 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
