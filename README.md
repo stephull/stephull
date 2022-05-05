@@ -1,4 +1,4 @@
-<a href="stephull.github.io" target="_blank"><b>New Personal Portfolio in progress</b></a>
+<a href="http://stephull.github.io" target="_blank"><b>New Personal Portfolio in progress</b></a>
 
 #### Welcome to my GitHub 😸
   * Computer Science @ Temple University 🍒🦉
