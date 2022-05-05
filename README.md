@@ -1,3 +1,5 @@
+<a href="stephull.github.io" target="_blank"><b>New Personal Portfolio in progress</b></a>
+
 #### Welcome to my GitHub 😸
   * Computer Science @ Temple University 🍒🦉
   * Aspiring Software Engineer with interest in Data Science 💻📊
@@ -16,8 +18,3 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-
-| External Links | 
-| -------------- | 
-| [LinkedIn](https://linkedin.com/in/shullender) |
-| [Temple email](mailto:stephull@temple.edu) |
