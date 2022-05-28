@@ -1,9 +1,12 @@
-<a href="http://stephull.github.io" target="_blank"><b>New Personal Portfolio in progress</b></a>
+## stephull
 
-#### Welcome to my GitHub 😸
+#### Welcome to my GitHub
   * Computer Science @ Temple University 🍒🦉
   * Aspiring Software Engineer with interest in Data Science 💻📊
-  * Part-time teaching assistant and technical lab consultant 📚🖨️
+
+<a href="http://stephull.github.io" target="_blank"><b>Personal Portfolio Website</b></a>
+<br />
+<a href="https://linkedin.com/in/shullender/" target="_blank"><b>LinkedIn</b></a>
 
 #### What I've been working on this past week...
 <!--START_SECTION:waka-->
