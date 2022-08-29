@@ -3,6 +3,7 @@
 #### Welcome to my GitHub
   * Computer Science @ Temple University 🍒🦉
   * Aspiring Software Engineer with interest in Data Science 💻📊
+  * SWE Intern @ Above & Beyond :shopping_cart::money_with_wings:
 
 <a href="http://stephull.github.io" target="_blank"><b>Personal Portfolio Website</b></a>
 <br />
